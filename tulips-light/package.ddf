@@ -1,0 +1,24 @@
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=Tulips (Light).deskthemepack
+.Set DiskDirectory1=..
+.Set CompressionType=MSZIP
+.Set Cabinet=ON
+.Set Compress=ON
+TulipsLight.theme
+arrow.cur
+busy.ani
+cross.cur
+ew.cur
+helpsel.cur
+ibeam.cur
+link.cur
+move.cur
+nesw.cur
+ns.cur
+nwse.cur
+pen.cur
+unavail.cur
+up.cur
+wait.ani
+.Set DestinationDir=DesktopBackground
+DesktopBackground\img.jpg
