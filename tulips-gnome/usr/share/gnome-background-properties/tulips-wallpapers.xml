@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Tulips</name>
+    <name xml:lang="fa">لاله‌ها</name>
+    <filename>/home/ubuntu/.local/share/backgrounds/tulips-wallpaper.jpg</filename>
+    <filename-dark>/home/ubuntu/.local/share/backgrounds/tulips-wallpaper-d.jpg</filename-dark>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
+
