@@ -1,5 +1,5 @@
 # Themes
-## Tulips
+## 1. Tulips
 ### Windows
 Light: [Download](https://github.com/xmha97/Themes/releases/download/tulips-v1.0/TulipsLight.deskthemepack)  
 Dark: [Download](https://github.com/xmha97/Themes/releases/download/tulips-v1.0/TulipsDark.deskthemepack)  
