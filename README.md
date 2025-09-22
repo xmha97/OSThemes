@@ -6,7 +6,7 @@
 
 - 🦶 GNOME: [User](https://github.com/xmha97/Themes/releases/download/tulips-v1.0/TulipsGU.zip) | [System](https://github.com/xmha97/Themes/releases/download/tulips-v1.0/TulipsGS.zip)
 
-- ✨ Plasma: [User](https://github.com/xmha97/Themes/releases/download/tulips-v1.0/TulipsGU.zip) | [System](https://github.com/xmha97/Themes/releases/download/tulips-v1.0/TulipsGS.zip)
+- ✨ Plasma: [User](https://github.com/xmha97/Themes/releases/download/tulips-v1.0/TulipsGU.zip) | [System](https://github.com/xmha97/Themes/releases/download/tulips-v1.0/TulipsGS.zip) | [Package](https://github.com/xmha97/Themes/releases/download/tulips-v1.0/tulips.tar.gz)
 
 ---
 
