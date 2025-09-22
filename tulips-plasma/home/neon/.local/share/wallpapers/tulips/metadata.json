@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "xmha97@gmail.com",
+                "Name": "Muhammadhussein Ammari",
+                "Name[fa]": "محمدحسین عماری"
+            }
+        ],
+        "Id": "Tulips",
+        "License": "CC-BY-SA-4.0",
+        "Version": "1.1",
+        "Name": "Tulips",
+        "Name[fa]": "لاله‌ها",
+        "Name[x-test]": "xxTulipsxx"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": {
+        "Dark": "#f55376",
+        "Light": "#f55376"
+    }
+}

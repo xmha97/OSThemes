@@ -1,0 +1,26 @@
+[Desktop Entry]
+Name=Tulips
+Comment=Tulips Wallpapers
+
+X-KDE-PluginInfo-Author=Muhammadhussein Ammari
+X-KDE-PluginInfo-Email=xmha97@gmail.com
+X-KDE-PluginInfo-Name=Tulips
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/xmha97/OSThemes
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=CC BY-NC-SA 3.0
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Settings]
+FallbackTheme=default
+
+[Wallpaper]
+defaultWallpaperTheme=Tulips
+defaultFileSuffix=.jpg
+defaultWidth=3840
+defaultHeight=2160
+
+[Branding]
+homepage=https://github.com/xmha97
